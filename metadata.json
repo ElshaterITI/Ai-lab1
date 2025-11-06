@@ -1,0 +1,5 @@
+
+{
+  "name": "Gemini Content Generator",
+  "description": "A web application that takes a user's prompt and generates either a text-based answer or an image using the Gemini API."
+}
